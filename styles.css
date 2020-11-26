@@ -11,23 +11,9 @@
   background-repeat: no-repeat;
 }
 
-/* .navbar {
-  justify-content: unset;
-  width: 76%;
-  margin: 0 12% 0 12%;
-  padding-top: 1%;
-}
-
-.navbar h3 {
-  font-size: 20px;
-  padding: 3% 4% 0 4%;
-  font-weight: 800;
-  letter-spacing: 3px;
-} */
-
 nav {
   background-color: transparent;
-  margin: 0 13% 0 13%;
+  margin: 0 15% 0 15%;
 }
 
 nav li a {
@@ -43,7 +29,6 @@ nav li {
 
 .logo {
   padding: 0 15% 0 28%;
-  /* width: 17%; */
   height: 120px;
 }
 
