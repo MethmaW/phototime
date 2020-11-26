@@ -85,6 +85,10 @@ p {
   padding-bottom: 1.5%;
 }
 
+b {
+  font-weight: 900;
+}
+
 /* -------------section two--------------------- */
 
 #section-two {
